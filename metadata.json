@@ -1,0 +1,7 @@
+{
+  "name": "GEO World",
+  "description": "Interactive World Atlas & Digital Geography Platform exploring countries, cities, global statistics, and geography quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
